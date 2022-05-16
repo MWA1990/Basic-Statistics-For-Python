@@ -1,2 +1,2 @@
-# Basic-Statistics-For-Python
-In this repository, Basic Statistics for Data Science in python is discussed.
+# Data Science by using Python
+In this repository, Data Science by using Python is discussed in detail.
